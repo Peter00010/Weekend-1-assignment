@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    background-color:#37212B;
+    color: whitesmoke;
+}
+
+h1{
+    color: #EEB085;
+}
+
+h2{
+    color: #EEB085;
+}
+
+h4{
+    position: absolute;
+    bottom: 0;
+    
+}
+
+a{
+    text-decoration: none;
+    color:#ac4434 ;
+}
+
+.opening{
+    padding-top: 20px;
+}
+
+img{
+    padding-left: 250px;
+}
+
+ul{
+   list-style: none; 
+   display: flex;
+
+}
+
+.top{
+    padding-left: 50px;
+}
+
