@@ -2,6 +2,7 @@ body{
     font-family: sans-serif;
     background-color:#37212B;
     color: whitesmoke;
+    padding-left: 30px;
 }
 
 h1{
@@ -25,23 +26,20 @@ a{
     font-style: italic;
 }
 
-img{
-    padding-left: 250px;
-    position:relative;
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: #EEB085 solid 3px;
     border-radius: 15px;
-    margin: ;
 }
 
-/* .opening{
+.opening{
     position: fixed;
-    top: 120px;
-    left: 30px;
-} */
+    top: 120px; 
+    left: 45px;
+} 
 
-.top{
-    padding-left: 50px;
-}
 
 
 
