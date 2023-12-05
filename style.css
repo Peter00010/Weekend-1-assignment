@@ -28,8 +28,7 @@ a{
 
 .pic{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left:190px;
     border: #EEB085 solid 3px;
     border-radius: 15px;
 }
